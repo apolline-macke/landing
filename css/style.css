@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora&family=Montserrat:wght@500&display=swap');
+
+@import url('components/container.css');
+@import url('components/btn.css');
+@import url('components/card.css');
+
+/* Fonts and colors */
+body{
+  background: rgb(240,240,240);
+  color: rgb(30,30,30);
+  font-size: 18px;
+  font-family: Montserrat, sans-serif;
+  margin: 0px;
+  font-weight: lighter;
+}
+h1 {
+	font-family: Lora;
+  font-weight: bold;
+  color: #ffefa1;
+}
+h2 {
+	font-family: Lora;	
+  font-weight: bold;
+  font-size: 30px;
+  color: #94ebcd;
+}
+
+h3 {
+  font-weight: bold;
+  font-size: 24px;
+  color: #ffefa1;
+}
+
+h4 {
+  font-size: 18px;
+  font-family: Montserrat, sans-serif;
+  color: white;
+  margin: 0px;
+  font-weight: lighter;
+}
+h5 {
+  font-weight: bold;
+  font-size: 24px;
+  color: #94ebcd;
+}
+
+
+a {
+  color: #94ebcd;
+  text-decoration: none;
+}
+a:hover {
+  color: black;
+}
